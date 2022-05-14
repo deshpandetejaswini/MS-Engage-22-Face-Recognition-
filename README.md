@@ -1,2 +1,2 @@
-# MS-Engage-22-Face-Recognition-
+# MS-Engage-22-Face-Recognition
 OpenCV
