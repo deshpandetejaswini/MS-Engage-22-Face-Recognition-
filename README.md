@@ -18,11 +18,14 @@ ADMIN DASHBOARD
 
    ADMIN DASHBOARD-This dashboard gives the admin information regarding
    
+   
+   
+   
    a)Attendance report for a particular employee-attendence of a employee in a particular duration(duration is inserted by admin according to his convinience).Also this    webpage shows graph between number of hours that employee worked on all the different days he was present
    
    
    
-   b)Number of employees present on a particular date with graph representing number of hours each employee was present at that particular date(date is inserted by the       admin according to his convinience)
+   b)Attendance of all the employees for a particular date- Number of employees present on a particular date with graph representing number of hours each employee was      present at that particular date(date is inserted by the admin according to his convinience)
 
 
 
