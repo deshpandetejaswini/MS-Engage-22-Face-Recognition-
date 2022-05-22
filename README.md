@@ -12,6 +12,9 @@ This project involves development of web application which takes attendance as w
 
 SYSTEM FLOW
 ADMIN DASHBOARD 
+
+
+
 1.Registration of a new employee/student by admin
 
 2.Clicking of photos by webcam for the dataset
@@ -19,6 +22,7 @@ ADMIN DASHBOARD
 3.Training of dataset
 
 4.Viewing attendance report by admin 
+
 
    ATTENDANCE DASHBOARD-This dashboard gives the admin information regarding
    
@@ -32,6 +36,6 @@ ADMIN DASHBOARD
    
 c)Attendance of all the employees for a particular date- Number of employees present on a particular date with graph representing number of hours each employee          was present at that particular date(date is inserted by the admin according to his convinience)
 
-5.Employee dashboard - Graph showing No of hours worked on all the dates when he was present and showing statistics such as intime and the out time of that employee
+5.Employee dashboard - Graph showing number of hours worked on all the dates when he was present and showing statistics such as intime and the out time of that employee
 
 
