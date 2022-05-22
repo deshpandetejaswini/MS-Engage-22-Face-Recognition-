@@ -1,7 +1,11 @@
 # MS-Engage-22-Face-Recognition
 ATTENDANCE GOVERNANCE SYSTEM (USING FACE RECOGNISION)
+
+
 Features involved in this project are
 Features provided for the admin
+
+
 ADMIN DASHBOARD 
 1.Registration of a new employee by admin
 2.Clicking of photos by webcam for the dataset
