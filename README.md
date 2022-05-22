@@ -21,7 +21,9 @@ ADMIN DASHBOARD
 4.Viewing attendance report by admin 
 
    ATTENDANCE DASHBOARD-This dashboard gives the admin information regarding
-   a)Shows statistics-Number of employees present on that day ,graph for previos week and ongoing week (no of employee vs date)
+   
+   
+ a)Shows statistics-Number of employees present on that day ,graph for previos week and ongoing week (no of employee vs date)
    
    
  b)Attendance report for a particular employee-attendence of a employee in a particular duration(duration is inserted by admin according to his convinence.Also this webpage shows graph between number of hours that employee worked on all the different days he was present
