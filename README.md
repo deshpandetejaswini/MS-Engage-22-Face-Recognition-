@@ -97,6 +97,16 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
+![attendance by date](https://user-images.githubusercontent.com/102857029/170044330-e9cd8545-99b4-442f-b793-26cdab65ecc9.JPG)
+
+
+
+
+
+
+
+
+
 
 
 
