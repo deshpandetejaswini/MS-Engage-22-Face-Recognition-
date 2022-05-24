@@ -87,6 +87,19 @@ ADMIN DASHBOARD
    
    
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 c)Attendance of all the employees for a particular date- Number of employees present on a particular date with graph representing number of hours each employee          was present at that particular date(date is inserted by the admin according to his convinience)
 
 
@@ -110,11 +123,35 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 5.Employee dashboard - Graph showing number of hours worked on all the dates when he was present and showing statistics such as intime and the out time of that employee
 
 
-FLOW OF 
-           FACE DETECTION
+
+
+
+
+
+
+
+
+
+
+
+
+FLOW OF FACE DETECTION
+           
 1.HOG face detector-Histogram Oriented Gradients (HOG) used in computer vision for object detection.
 
 
