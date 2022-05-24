@@ -4,8 +4,8 @@ ATTENDANCE GOVERNANCE SYSTEM (USING FACE RECOGNISION)
 
 
 
-This project involves development of web application which takes attendance as well as maintains attendance records.It implements features such as face recognission as well as detection and marks the in-time, out -time and presence of a employees.It exhibits the attendance in form of  graphs and tabular format in accordance to the requirement of admin/employee.The graphs help in visualization of data such as number of hours a particular employee has worked ,number of employees present at that day .It helps to automate the treditional way of tacking as well and maintaining attendance .This project can be implemented for schools,offices and the places where attendance tracking is necessary.
-
+This project involves development of web application which takes attendance as well as maintains attendance records.For this project I have used  python as coding language,Django as a framework  and OpenCV as a computer vision library (face detection/ recognition).
+It implements features such as face recognission as well as detection and marks the in-time, out -time and presence of a employees.It exhibits the attendance in form of  graphs and tabular format in accordance to the requirement of admin/employee.The graphs help in visualization of data such as number of hours a particular employee has worked ,number of employees present at that day .It helps to automate the treditional way of tacking as well and maintaining attendance .This project can be implemented for schools,offices and the places where attendance tracking is necessary.
 
 
 
