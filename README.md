@@ -38,4 +38,3 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 5.Employee dashboard - Graph showing number of hours worked on all the dates when he was present and showing statistics such as intime and the out time of that employee
 
-
