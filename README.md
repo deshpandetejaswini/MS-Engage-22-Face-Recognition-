@@ -26,6 +26,8 @@ ADMIN DASHBOARD
 
 3.Training of dataset
 
+4.Viewing attendance report by admin 
+
 
 
 
@@ -38,7 +40,6 @@ ADMIN DASHBOARD
 
 
 
-4.Viewing attendance report by admin 
 
 
 
