@@ -21,6 +21,18 @@ ADMIN DASHBOARD
 
 3.Training of dataset
 
+
+
+
+
+
+![admin dashboard](https://user-images.githubusercontent.com/102857029/170040527-11c6eb0e-4823-41d2-9bec-aa3788abd6d0.JPG)
+
+
+
+
+
+
 4.Viewing attendance report by admin 
 
 
