@@ -51,13 +51,20 @@ ADMIN DASHBOARD
  
  
  
- ![attancance by employee](https://user-images.githubusercontent.com/102857029/170041186-663c8d21-018d-419c-9e55-d8db3d563e11.JPG)
+ 
  
  
  
    
    
  b)Attendance report for a particular employee-attendence of a employee in a particular duration(duration is inserted by admin according to his convinence.Also this webpage shows graph between number of hours that employee worked on all the different days he was present
+ 
+ 
+ 
+ 
+ 
+ 
+  ![attancance by employee](https://user-images.githubusercontent.com/102857029/170041186-663c8d21-018d-419c-9e55-d8db3d563e11.JPG)
    
    
    
