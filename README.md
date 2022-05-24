@@ -42,7 +42,11 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 FLOW OF 
            FACE DETECTION
 1.HOG face detector-Histogram Oriented Gradients (HOG) used in computer vision for object detection.
+
+
 2.Shape Predictor-dilib Frontal Facial landmark predictor is used 
+
+
  Shape _predictor_68_face landmark -It estimates the location of 68 co-ordinates (x, y) that map the facial points of a particular person’s face.
 
 
