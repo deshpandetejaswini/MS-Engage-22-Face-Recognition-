@@ -15,7 +15,7 @@ ADMIN DASHBOARD
 
 
 
-![attendfance dashboard](https://user-images.githubusercontent.com/102857029/170042819-f2d84e23-9494-4f41-8677-c35c41e4b99b.JPG)
+
 
 
 
@@ -53,6 +53,12 @@ ADMIN DASHBOARD
    
    
  a)Shows statistics-Number of employees present on that day ,graph for previous week and ongoing week (no of employee vs date)
+ 
+ 
+ 
+ 
+ 
+ ![attendfance dashboard](https://user-images.githubusercontent.com/102857029/170042819-f2d84e23-9494-4f41-8677-c35c41e4b99b.JPG)
  
  
  
