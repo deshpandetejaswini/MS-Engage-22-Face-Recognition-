@@ -149,6 +149,26 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
+![employeegraph](https://user-images.githubusercontent.com/102857029/170046573-3bb382b0-71cc-4fb4-8824-f5e63a7beeb5.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 FLOW OF FACE DETECTION
            
