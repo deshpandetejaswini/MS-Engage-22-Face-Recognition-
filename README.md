@@ -15,6 +15,11 @@ ADMIN DASHBOARD
 
 
 
+![attendfance dashboard](https://user-images.githubusercontent.com/102857029/170042819-f2d84e23-9494-4f41-8677-c35c41e4b99b.JPG)
+
+
+
+
 1.Registration of a new employee/student by admin
 
 2.Clicking of photos by webcam for the dataset
