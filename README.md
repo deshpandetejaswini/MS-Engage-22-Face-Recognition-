@@ -77,10 +77,28 @@ ADMIN DASHBOARD
  
  
   ![attancance by employee](https://user-images.githubusercontent.com/102857029/170041186-663c8d21-018d-419c-9e55-d8db3d563e11.JPG)
+  
+  
+  
+  
+  
+  
+  
    
    
    
 c)Attendance of all the employees for a particular date- Number of employees present on a particular date with graph representing number of hours each employee          was present at that particular date(date is inserted by the admin according to his convinience)
+
+
+
+
+
+
+
+
+
+
+
 
 5.Employee dashboard - Graph showing number of hours worked on all the dates when he was present and showing statistics such as intime and the out time of that employee
 
