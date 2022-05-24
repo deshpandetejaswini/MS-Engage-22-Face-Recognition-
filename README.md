@@ -43,17 +43,33 @@ FLOW OF
            FACE DETECTION
 1.HOG face detector-Histogram Oriented Gradients (HOG) used in computer vision for object detection.
 2.Shape Predictor-dilib Frontal Facial landmark predictor is used 
-      Shape _predictor_68_face landmark -It estimates the location of 68 co-ordinates (x, y) that map the facial points of a particular person’s face.
+ Shape _predictor_68_face landmark -It estimates the location of 68 co-ordinates (x, y) that map the facial points of a particular person’s face.
 
 
-          CAPTURING IMAGES FROM WEBCAM
+ CAPTURING IMAGES FROM WEBCAM
+ 
+ 
 1.Capturing image by webcam at that instant using vs=VedioStream (src=0)
+
+
 2.Read from the image for each frame vs.read() 
+
+
 3.Resizing the image 
+
+
 4.Converting Colored image to black and white image (for classifiers to work we need gray style image)
+
+
 5.Storing the faces- Detecting all the images in the current frame and returning the co-ordinates of faces.
+
+
 6.Drawing the rectangle around each face which webcam has captured.
+
+
 7.Writing the captured face in the file in the folder. Before capturing the face, we need to tell the script whose face it is. We save the image in the dataset, but only the face part we crop the remaining part.
+
+
 8.After capturing image stop the video stream .
 
 
