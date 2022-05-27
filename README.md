@@ -218,7 +218,7 @@ For docummentation [CLICK HERE](https://docs.google.com/document/d/1bn-bJaX9ob8y
 ## **PROCESS TO RUN THIS PROJECT ON YOUR SYSTEM**  	:computer:   	:desktop_computer:
 
 
-For looking at the procedure [CLICK HERE](https://docs.google.com/document/d/1yu7vEBGDMo5NILlNyUVucpU9kte_IZe3/edit?usp=sharing&ouid=102673503864233077521&rtpof=true&sd=true)
+For looking at the procedure [CLICK HERE](https://drive.google.com/drive/folders/1j28kybfL0yEohmqIYknc297M6KtI8YXC?usp=sharing)
 
 
 ### THANKYOU ##
