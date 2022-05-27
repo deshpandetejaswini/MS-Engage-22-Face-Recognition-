@@ -212,13 +212,13 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 ##  **DOCUMENTATION** 	:card_index:  	:orange_book:
 
-For docummentation [CLICK HERE](https://drive.google.com/drive/folders/1wYlApKj-njXbLK9xw8HYfDH5M9aU-gY2).
+For docummentation [CLICK HERE](https://docs.google.com/document/d/1bn-bJaX9ob8y7cWTjXjOysd7DlQx2252/edit?usp=sharing&ouid=102673503864233077521&rtpof=true&sd=true).
 
 
 ## **PROCESS TO RUN THIS PROJECT ON YOUR SYSTEM**  	:computer:   	:desktop_computer:
 
 
-For looking at the procedure [CLICK HERE](https://docs.google.com/document/d/1WFuHmn0afIdAnr9iKJP0dTV45b-Q88GM/edit?usp=sharing&ouid=102673503864233077521&rtpof=true&sd=true)
+For looking at the procedure [CLICK HERE](https://docs.google.com/document/d/1yu7vEBGDMo5NILlNyUVucpU9kte_IZe3/edit?usp=sharing&ouid=102673503864233077521&rtpof=true&sd=true)
 
 
 ### THANKYOU ##
