@@ -231,7 +231,7 @@ Username-admin
 
 
 
-Passord-admin
+Password-admin
 
 
 ### THANKYOU ##
