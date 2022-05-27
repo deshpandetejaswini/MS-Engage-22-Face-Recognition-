@@ -1,5 +1,5 @@
 # MS-Engage-22-Face-Recognition
-**ATTENDANCE GOVERNANCE SYSTEM (USING FACE RECOGNISION)**
+**ATTENDANCE GOVERNANCE SYSTEM (USING FACE RECOGNISION)**	:woman_student:
 
 
 
@@ -10,8 +10,8 @@ It implements features such as face recognission as well as detection and marks 
 
 
 
-**SYSTEM FLOW**
-ADMIN DASHBOARD 
+**SYSTEM FLOW**  
+ADMIN DASHBOARD   :technologist:
 
 
 
@@ -170,7 +170,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
-**FLOW OF FACE DETECTION**
+**FLOW OF FACE DETECTION**  	:man_technologist:
            
 1.HOG face detector-Histogram Oriented Gradients (HOG) used in computer vision for object detection.
 
@@ -181,7 +181,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
  Shape _predictor_68_face landmark -It estimates the location of 68 co-ordinates (x, y) that map the facial points of a particular person’s face.
 
 
- **CAPTURING IMAGES FROM WEBCAM**
+ **CAPTURING IMAGES FROM WEBCAM**  	:woman_technologist:
  
  
 1.Capturing image by webcam at that instant using vs=VedioStream (src=0)
