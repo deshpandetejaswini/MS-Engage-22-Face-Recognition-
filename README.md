@@ -181,7 +181,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
  Shape _predictor_68_face landmark -It estimates the location of 68 co-ordinates (x, y) that map the facial points of a particular person’s face.
 
 
- **CAPTURING IMAGES FROM WEBCAM**  	:woman_technologist:
+ **CAPTURING IMAGES FROM WEBCAM**  	📹	:video_camera:   :camera_flash:
  
  
 1.Capturing image by webcam at that instant using vs=VedioStream (src=0)
@@ -210,7 +210,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
-**DOCUMENTATION**
+**DOCUMENTATION** 	:card_index:  	:orange_book:
 
 For docummentation [CLICK HERE](https://drive.google.com/drive/folders/1wYlApKj-njXbLK9xw8HYfDH5M9aU-gY2).
 
