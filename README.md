@@ -212,7 +212,7 @@ FLOW OF FACE DETECTION
 
 ** DOCUMENTATION**
 
-For docummentation [CLICK HERE] (https://drive.google.com/drive/folders/1wYlApKj-njXbLK9xw8HYfDH5M9aU-gY2)
+For docummentation [CLICK HERE](https://drive.google.com/drive/folders/1wYlApKj-njXbLK9xw8HYfDH5M9aU-gY2).
 
 
 
