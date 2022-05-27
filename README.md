@@ -1,5 +1,5 @@
 # MS-Engage-22-Face-Recognition 	:person_red_hair:
-**ATTENDANCE GOVERNANCE SYSTEM (USING FACE RECOGNISION)**	:woman_student:
+# **ATTENDANCE GOVERNANCE SYSTEM (USING FACE RECOGNISION)**	:woman_student:
 
 
 
@@ -10,7 +10,7 @@ It implements features such as face recognission as well as detection and marks 
 
 
 
-**SYSTEM FLOW**  
+# **SYSTEM FLOW**  
 ADMIN DASHBOARD   :technologist:
 
 
@@ -170,7 +170,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
-**FLOW OF FACE DETECTION**  	:man_technologist:
+# **FLOW OF FACE DETECTION**  	:man_technologist:
            
 1.HOG face detector-Histogram Oriented Gradients (HOG) used in computer vision for object detection.
 
@@ -181,7 +181,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
  Shape _predictor_68_face landmark -It estimates the location of 68 co-ordinates (x, y) that map the facial points of a particular person’s face.
 
 
- **CAPTURING IMAGES FROM WEBCAM**  	📹	:video_camera:   :camera_flash:
+ # **CAPTURING IMAGES FROM WEBCAM**  	📹	:video_camera:   :camera_flash:
  
  
 1.Capturing image by webcam at that instant using vs=VedioStream (src=0)
@@ -210,7 +210,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 
 
 
-**DOCUMENTATION** 	:card_index:  	:orange_book:
+# **DOCUMENTATION** 	:card_index:  	:orange_book:
 
 For docummentation [CLICK HERE](https://drive.google.com/drive/folders/1wYlApKj-njXbLK9xw8HYfDH5M9aU-gY2).
 
@@ -221,7 +221,7 @@ For docummentation [CLICK HERE](https://drive.google.com/drive/folders/1wYlApKj-
 For looking at the procedure [CLICK HERE](https://docs.google.com/document/d/1WFuHmn0afIdAnr9iKJP0dTV45b-Q88GM/edit?usp=sharing&ouid=102673503864233077521&rtpof=true&sd=true)
 
 
-# thankyou
+
 
 
 
