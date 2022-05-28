@@ -298,6 +298,17 @@ For looking at the vedio presentation [CLICK HERE](https://drive.google.com/file
 
 
 
+
+## **SCOPE**  	
+Utilisation of this technology seems to be wider range of effective results in the  smooth functioning of industrial setup, government office's rural development projects, national identification, for beef up security at the borders,visa/passport allotment system, airport's security purposes and other similar arenas of enhancement.This will regulate systematic approach both in the developed and undeveloped nation's of the world.
+
+
+
+
+
+
+
+
 ### THANKYOU ##
 
 
