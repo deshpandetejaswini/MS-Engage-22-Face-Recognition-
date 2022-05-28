@@ -234,7 +234,7 @@ c)Attendance of all the employees for a particular date- Number of employees pre
 3.Resizing the image 
 
 
-4.Converting Colored image to black and white image (for classifiers to work we need gray style image)
+4.Converting Coloured image to black and white image (for classifiers to work we need gray style image)
 
 
 5.Storing the faces- Detecting all the images in the current frame and returning the co-ordinates of faces.
