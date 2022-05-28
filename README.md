@@ -4,7 +4,49 @@
 
 
 
-This project involves development of web application which takes attendance as well as maintains attendance records.For this project I have used  python as coding language,Django as a framework  and OpenCV as a computer vision library (face detection and recognition),	Dlib,	Open-Source Face Recognition Library,	SQLITE as  Database.It implements features such as face recognission as well as detection and marks the entry time, exit -time and presence of a employees.It exhibits the attendance in form of  graphs and tabular format in accordance to the requirement of admin/employee.The graphs help in visualization of data such as number of hours a particular employee has worked ,number of employees present at that day .This project can be implemented for  places where attendance tracking is necessary.
+This project involves development of web application which takes attendance as well as maintains attendance records.For this project I have used  Python as coding language,Django as a framework  and OpenCV as a computer vision library (face detection and recognition),	Dlib,	Open-Source Face Recognition Library,	SQLITE as  Database.It implements features such as face recognission as well as detection and marks the entry time, exit -time and presence of a employees.It exhibits the attendance in form of  graphs and tabular format in accordance to the requirement of admin/employee.The graphs help in visualization of data such as number of hours a particular employee has worked ,number of employees present at that day .This project can be implemented for  places where attendance tracking is necessary.
+
+
+
+
+
+
+
+
+
+
+
+
+##  **FEATURES OF THIS PROJECT**
+1.	Registration
+2.	Login / Logout
+3.	Manage User Profile
+4.	Update user profile
+5.	View  Attendance Report
+6.	View Attendance by Date
+7.	View Attendance by Employee
+8.	Manage Attendance
+9.	Mark IN your attendance
+10.Mark OUT your attendance
+11.Add photos
+12.Add new employee
+13.Train the system
+14.View Attendance record by date
+15.View no. of employee present today
+16.View Total number of employees
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
