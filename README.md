@@ -17,7 +17,7 @@ This project involves development of web application which takes attendance as w
 
 
 
-##  **FEATURES OF THIS PROJECT**
+##  **FEATURES OF THIS PROJECT**	:man_technologist:
 1.	Registration
 2.	Login / Logout
 3.	Manage User Profile
