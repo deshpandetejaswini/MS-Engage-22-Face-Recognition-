@@ -1,5 +1,5 @@
 # MS-Engage-22-Face-Recognition 	:person_red_hair:
-##  **ATTENDANCE TRACKING SYSTEM (USING FACE RECOGNISION)**	:woman_student:
+##  **ATTENDANCE TRACKING SYSTEM (USING FACE RECOGNITION)**	:woman_student:
 
 
 
